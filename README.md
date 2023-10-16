@@ -4,6 +4,7 @@
 
 # Project Title:	 Hangman
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
 This project is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.  The project has 5 milestones to complete before the implementation is considered adequate for distribution.
